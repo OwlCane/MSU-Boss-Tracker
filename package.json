@@ -1,5 +1,5 @@
 {
-  "name": "msu-boss-duo-tracker",
+  "name": "msu-boss-v1",
   "private": true,
   "scripts": {
     "dev": "next dev",
